@@ -1,0 +1,23 @@
+{
+    "name": "bullebali/php-line-chatbot",
+    "description": "Skripsi Chatbot",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Azma Joevanca",
+            "email": "azma.joevanca@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4.33|^8.0",
+        "slim/slim": "^4.10",
+        "linecorp/line-bot-sdk": "^7.3",
+        "slim/psr7": "^1.5",
+        "nyholm/psr7": "^1.5",
+        "nyholm/psr7-server": "^1.0",
+        "guzzlehttp/psr7": "^2.2",
+        "http-interop/http-factory-guzzle": "^1.2",
+        "laminas/laminas-diactoros": "^2.9"
+    }
+}
